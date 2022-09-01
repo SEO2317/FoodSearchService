@@ -1,21 +1,5 @@
-<img src="daum.png">
-<table border = "1">
-  <tr>
-  <th><img src = "daum.png" height = "300px"></th>
-    <td><img src = "daum.png" height = "100%"></td>
-    <td><img src = "daum.png" height = "300px"></td>
-    <td><img src = "daum.png" height = "300px"></td>
-    <td><img src = "daum.png" height = "300px"></td>
-    <td><img src = "daum.png" height = "300px"></td>
-  <span style = "font-size : 50px;">안녕하세요</span>
-  </tr>
-  <tr>
-  <th><img src = "daum.png" height = "300px"></th>
-    <td><img src = "daum.png" height = "100%"></td>
-    <td><img src = "daum.png" height = "100%"></td>
-    <td><img src = "daum.png" height = "100%"></td>
-    <td><img src = "daum.png" height = "100%"></td>
-    <td><img src = "daum.png" height = "100%"></td>
-  <span style = "font-size : 50px;">안녕하세요</span>
-  </tr>
-  </table>
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
