@@ -1,7 +1,7 @@
 <img src="daum.png">
 <table border = "1">
   <tr>
-  <th colspan = "2"><img src = "daum.png" height = "300px"></th>
+  <th><img src = "daum.png" height = "300px"></th>
     <td><img src = "daum.png" height = "100%"></td>
     <td><img src = "daum.png" height = "300px"></td>
     <td><img src = "daum.png" height = "300px"></td>
