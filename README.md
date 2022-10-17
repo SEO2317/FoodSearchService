@@ -44,7 +44,7 @@ No Persistence provider for EntityManager named mini step
 persistence.xml 파일명이 Persistence.xml이 아니라 스캔이 되지 않아 이름을 변경하고 해결 하였습니다.
 
 
-<hr>
+<hr></hr>
 
 <div>
   <h3>느낀점</h3>
