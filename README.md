@@ -1,4 +1,4 @@
-<h1>FoodSearchService~</h1>
+<h1>FoodSearchService</h1>
 
 <h2>0. 목차</h2><br>
 
